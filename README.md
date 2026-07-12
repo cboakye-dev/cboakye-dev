@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Christian 👋
 
-<!--
-**cboakye-dev/cboakye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Electronics Engineer  
+⚡ Electrical Technician in a Processing Plant and Water Treatment Plant  
+💻 Transitioning into AI, Data Science & Cybersecurity  
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Machine Learning
+- Data Analysis (Python)
+- Cybersecurity Fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects (Coming Soon)
+- Fake News Detection System  
+- Security Log Analyzer  
+
+## 📫 Contact Me
+- Email: your email here
