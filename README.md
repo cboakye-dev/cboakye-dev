@@ -14,4 +14,4 @@
 - Security Log Analyzer  
 
 ## 📫 Contact Me
-- Email: your email here
+- Email: chrisboakye49@gmail.com
